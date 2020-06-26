@@ -4,8 +4,50 @@ permalink: /publications/
 title: "Publication list"
 author_profile: true
 ---
+[P9] **A Neural Circuit Arbitrates between Persistence and Withdrawal in Hungry __Drosophila__**
+
+S. Sayin, J.-F. De Backer, K.P. Siju, M.E. Wosniack, et al. Neuron 104:544-558 (2019).
+
+
+[P8] **Identifying dynamical structures in the physical space of stochastic processes**
+
+M.E. Wosniack, M.C. Santos, E.P. Raposo, G.M. Viswanathan, M.G.E. da Luz, and L.S. Schulman. Europhysics Letters 125:20004 (2019).
+
+
+[P7] **The evolutionary origins of Lévy walk foraging**
+
+M.E. Wosniack, M.C. Santos, E.P. Raposo, G.M. Viswanathan, and M.G.E. da Luz. PLOS Computational Biology 13:e1005774 (2017).
+
+
+[P6] **Punctuated equilibrium as an emergent process and its modified thermodynamic characterization**
+
+M.E. Wosniack, M.G.E. da Luz, and L.S. Schulman. Journal of Theoretical Biology 412:113-122 (2017).
+
+
+[P5] **Efficient search for multiple types of targets**
+
+M.E. Wosniack, E.P. Raposo, G.M. Viswanathan, and M.G.E. da Luz. Physical Review E 92:062135 (2015).
+
+
+[P4] **Robustness of optimal random searches in fragmented environments**
+
+M.E. Wosniack, M.C. Santos, E.P. Raposo, G.M. Viswanathan, and M.G.E. da Luz. Physical Review E, 91:0512119 (2015).
+
+
+[P3] **A parallel algorithm for random searches**
+
+M.E. Wosniack, E.P. Raposo, G.M. Viswanathan, and M.G.E. da Luz. Computer Physics Communications, 196:390 (2015).
+
+
+[P2] **Survival in patchy landscapes: the interplay between dispersal, habitat loss and fragmentation**
+
+B.B.S. Niebuhr, M.E. Wosniack, M.C. Santos, E.P. Raposo, G.M. Viswanathan, M.G.E. da Luz, and M.R. Pie. Scientific Reports, 5:11898 (2015).
+
+
 [P1] **Unveiling a mechanism for species decline in fragmented habitats: fragmentation induced reduction in encounter rates**
+
 M.E. Wosniack, M.C. Santos, M.R. Pie, M.C. Marques, E.P. Raposo, G.M. Viswanathan, and M.G.E. da Luz. Journal of the Royal Society Interface 11:20130887 (2013).
 <img src="{{ site.url }}{{ site.baseurl }}/images/interface.png" alt="fragmentation habitat levy flight">
 
-Several studies have reported that fragmentation (e.g. of anthropogenic origin) of habitats often leads to a decrease in the number of species in the region. An important mechanism causing this adverse ecological impact is the change in the encounter rates (i.e. the rates at which individuals meet other organisms of the same or different species). Yet, how fragmentation can change encounter rates is poorly understood. To gain insight into the problem, here we ask how landscape fragmentation affects encounter rates when all other relevant variables remain fixed. We present strong numerical evidence that fragmentation decreases search efficiencies thus encounter rates. What is surprising is that it falls even when the global average densities of interacting organisms are held constant. In other words, fragmentation per se can reduce encounter rates. As encounter rates are fundamental for biological interactions, it can explain part of the observed diminishing in animal biodiversity. Neglecting this effect may underestimate the negative outcomes of fragmentation. Partial deforestation and roads that cut through forests, for instance, might be responsible for far greater damage than thought. Preservation policies should take into account this previously overlooked scientific fact.
+* With a random-search model of animal movement, we showed that the fragmentation of habitats leads to a reduction in the encounter rates (i.e., the rates at which individuals meet resources)
+* Our results have important implications to the design of restoration projects and preservation policies
